@@ -1,5 +1,5 @@
-C1Program
+C1 Setup Utility
 =========
 
-C1 Program
-Install and Uninstall software for new pcs.
+C1 Setup Utility
+Allows setup and configuration of new PC's
